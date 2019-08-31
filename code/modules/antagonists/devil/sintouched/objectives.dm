@@ -20,4 +20,4 @@
 	explanation_text = "You are the BEST thing in the wasteland.  Make sure everyone knows it."
 
 /datum/objective/sintouched/lust
-	explanation_text = "You are horny as hell. Fuck anything that moves, willing or not."
+	explanation_text = "You love the smell of desperation. Make people want you, in material ways, or otherwise..."
